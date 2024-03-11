@@ -17,7 +17,7 @@ PlayerSettings:
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
-  m_ShowUnitySplashScreen: 0
+  m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
   m_SplashScreenAnimation: 0
@@ -144,6 +144,8 @@ PlayerSettings:
   preloadedAssets:
   - {fileID: 0}
   - {fileID: 11400000, guid: b9fd417b58a9be746a5f39f66a703832, type: 2}
+  - {fileID: -4458284507104142693, guid: 506454957f4a3b04999e64f068653335, type: 2}
+  - {fileID: 11400000, guid: c7f2d328c2450914ea9551bf9fdc592f, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -164,7 +166,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.samples.crypticcabinet
+    Android: com.samples.crypticcabinet.ccolo
     Standalone: com.samples.crypticcabinet
     iPhone: com.Unity-Technologies.com.unity.template.urp-blank
   buildNumber:
